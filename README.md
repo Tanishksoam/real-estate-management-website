@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-Apache_License_2.0-blue.svg)](LICENSE)
 # real-estate-management
 
--Deployment link - https://real-estate-management-system.vercel.app/[https://real-estate-management-system.vercel.app/]
+-Deployment link -https://real-estate-management.evanmarc.com/
 A online property management solution for real estate and
 physical property management. This can include residential,
 commercial, and land real estate. a software developed to
